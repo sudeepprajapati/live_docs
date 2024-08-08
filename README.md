@@ -1,8 +1,6 @@
 <div align="center">
   <br />
-    <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
       <img src="https://github.com/user-attachments/assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Project Banner">
-    </a>
   <br />
 
   <div>
@@ -73,7 +71,7 @@ Make sure you have the following installed on your machine:
 
 ```bash
 git clone https://github.com/sudeepprajapati/live_docs.git
-cd collaborative-editor
+cd live_docs
 ```
 
 **Installation**
